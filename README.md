@@ -1,5 +1,6 @@
-### I’m looking for new roles in crypto 👀
+## CV
 
+### I’m looking for new roles in crypto 👀
 Hi, my name is **Kristine**.\
 I’m passionate about **ecosystem building and growth in crypto space**.\
 Previously I worked as a product marketing manager for martech B2B SaaS products for about 3 years, driving community engagement and ultimately generating leads for sales growth.
