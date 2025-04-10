@@ -51,6 +51,9 @@ I also have basic knowledge in frontend development, and recently got interested
 
 
 ## Hackathons
+- **Ethglobal Taipei (2025)**\
+  [Project Showcase](https://ethglobal.com/showcase/vib3-zhfj8)
+
 - **Ethglobal Bangkok (2024)**\
   2nd place, CDP x HYBE Creator Economy Prize (Coinbase Developer Platform)\
   [Project Showcase](https://ethglobal.com/showcase/dott-v5jsp)
