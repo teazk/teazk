@@ -2,12 +2,13 @@
 
 ### I’m looking for new roles in crypto 👀
 Hi, my name is **Kristine**.\
-I’m passionate about **ecosystem building and growth in crypto space**.\
+I’m passionate about **marketing, growth, and ecosystem building in crypto space**.\
 Previously I worked as a product marketing manager for martech B2B SaaS products for about 3 years, driving community engagement and ultimately generating leads for sales growth.
+I also have basic knowledge in frontend development, and recently got interested in vibe coding and using AI tools to improve how we work.
 
 **Some highlights in my professional journey include:**
 
-🌻 Helped Amplitude and Braze to penetrate into Korean market through wide range of B2B marketing initiatives including in-person conference recognized by 1,500+ attendees, regular webinars, customer interview blog posts and publishing educational playbooks for marketers and product managers. I also have basic frontend development knowledge.
+🌻 Helped Amplitude and Braze to penetrate into Korean market through wide range of B2B marketing initiatives including in-person conference recognized by 1,500+ attendees, regular webinars, customer interview blog posts and publishing educational playbooks for marketers and product managers.
 
 🌻 Fell into crypto rabbit hole in early 2024 and initiated my journey in web3 with an amazing community, SheFi. Participated in Devcon & Ethglobal Bangkok and was lucky enough to meet amazing teammates which led us to be awarded a prize.
 
