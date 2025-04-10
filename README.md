@@ -7,7 +7,7 @@ Previously I worked as a product marketing manager for martech B2B SaaS products
 
 **Some highlights in my professional journey include:**
 
-🌻 Helped Amplitude and Braze to penetrate into Korean market through wide range of B2B marketing initiatives including in-person conference recognized by 1,500+ attendees, regular webinars, customer interview blog posts and publishing educational playbooks for marketers and product managers.
+🌻 Helped Amplitude and Braze to penetrate into Korean market through wide range of B2B marketing initiatives including in-person conference recognized by 1,500+ attendees, regular webinars, customer interview blog posts and publishing educational playbooks for marketers and product managers. I also have basic frontend development knowledge.
 
 🌻 Fell into crypto rabbit hole in early 2024 and initiated my journey in web3 with an amazing community, SheFi. Participated in Devcon & Ethglobal Bangkok and was lucky enough to meet amazing teammates which led us to be awarded a prize.
 
